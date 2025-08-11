@@ -7,3 +7,11 @@
 .App-header{
     background-color: #fff;
 }
+
+li{
+    list-style: none;
+}
+
+.opcoes{
+    display: flex;
+}
